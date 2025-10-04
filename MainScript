@@ -91,14 +91,14 @@ speed.Position = UDim2.new(0.468421042, 0, 0.491228074, 0)
 speed.Size = UDim2.new(0, 44, 0, 28)
 speed.Font = Enum.Font.SourceSans
 speed.Text = "1"
-speed.TextColor3 = Color3.fromRGB(255, 255, 0)
+speed.TextColor3 = Color3.fromRGB(109, 110, 108)
 speed.TextScaled = true
 speed.TextSize = 14.000
 speed.TextWrapped = true
 
 mine.Name = "mine"
 mine.Parent = Frame
-mine.BackgroundColor3 = Color3.fromRGB(30, 30, 30)
+mine.BackgroundColor3 = Color3.fromRGB(109, 110, 108)
 mine.Position = UDim2.new(0.231578946, 0, 0.491228074, 0)
 mine.Size = UDim2.new(0, 44, 0, 28)
 mine.Font = Enum.Font.SourceSans
@@ -110,7 +110,7 @@ mine.TextWrapped = true
 
 closebutton.Name = "Close"
 closebutton.Parent = main.Frame
-closebutton.BackgroundColor3 = Color3.fromRGB(60, 60, 60)
+closebutton.BackgroundColor3 = Color3.fromRGB(109, 110, 108)
 closebutton.Font = "SourceSans"
 closebutton.Size = UDim2.new(0, 45, 0, 28)
 closebutton.Text = "X"
@@ -119,7 +119,7 @@ closebutton.Position =  UDim2.new(0, 0, -1, 27)
 
 mini.Name = "minimize"
 mini.Parent = main.Frame
-mini.BackgroundColor3 = Color3.fromRGB(60, 60, 60)
+mini.BackgroundColor3 = Color3.fromRGB(109, 110, 108)
 mini.Font = "SourceSans"
 mini.Size = UDim2.new(0, 45, 0, 28)
 mini.Text = "—"
@@ -128,7 +128,7 @@ mini.Position = UDim2.new(0, 44, -1, 27)
 
 mini2.Name = "minimize2"
 mini2.Parent = main.Frame
-mini2.BackgroundColor3 = Color3.fromRGB(60, 60, 60)
+mini2.BackgroundColor3 = Color3.fromRGB(109, 110, 108)
 mini2.Font = "SourceSans"
 mini2.Size = UDim2.new(0, 45, 0, 28)
 mini2.Text = "+"
