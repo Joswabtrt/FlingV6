@@ -37,7 +37,7 @@ up.BackgroundColor3 = Color3.fromRGB(30, 30, 30)
 up.Size = UDim2.new(0, 44, 0, 28)
 up.Font = Enum.Font.SourceSans
 up.Text = "↑"
-up.TextColor3 = Color3.fromRGB(0, 255, 0)
+up.TextColor3 = Color3.fromRGB(109, 110, 108)
 up.TextSize = 17.000
 
 down.Name = "down"
